@@ -61,11 +61,6 @@ Os modelos foram avaliados usando validação cruzada com 10 folds. A performanc
 
 ---
 
-## Bônus
-Foi implementada a abordagem **DeepFool** para avaliar a robustez dos modelos contra exemplos adversariais. Essa técnica encontra a menor perturbação necessária para enganar o classificador.
-
----
-
 ## Como Executar
 1. **Pré-requisitos**:
    - Python 3.7+
