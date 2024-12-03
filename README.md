@@ -56,8 +56,8 @@ O projeto implementa dois classificadores baseados em aprendizado profundo:
 ## Resultados
 Os modelos foram avaliados usando validação cruzada com 10 folds. A performance foi quantificada com base na acurácia média e desvio padrão. 
 
-- **MLP**: Acurácia média de XX.XX%.
-- **CNN**: Acurácia média de XX.XX%.
+- **MLP**: Acurácia média de 56.73%.
+- **CNN**: Acurácia média de 55.59%.
 
 ---
 
